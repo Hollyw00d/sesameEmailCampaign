@@ -119,7 +119,7 @@ tbody {
 
 td {
   display: table-cell;
-  vertical-align: text-top;
+  vertical-align: top;
 }
 
 
